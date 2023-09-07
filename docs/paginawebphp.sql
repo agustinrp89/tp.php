@@ -124,10 +124,10 @@ CREATE TABLE `tm_socialmedia` (
 --
 
 INSERT INTO `tm_socialmedia` (`sm_id`, `sm_nom`, `sm_icon1`, `sm_icon2`, `sm_rutaweb`, `est`) VALUES
-(1, 'facebook', 'fb', 'social_facebook', 'https://web.facebook.com/Ander.Codex', 1),
+(1, 'facebook', 'fb', 'social_facebook', '#', 1),
 (2, 'twitter', 'tw', 'social_twitter', '#', 0),
-(3, 'youtube', 'pt', 'social_youtube', 'https://www.youtube.com/AnderCode', 1),
-(4, 'instagram', 'in', 'social_instagram', 'https://github.com/Anders87x', 1);
+(3, 'youtube', 'pt', 'social_youtube', '#', 1),
+(4, 'instagram', 'in', 'social_instagram', 'https://github.com/agustinrp89', 1);
 
 --
 -- Índices para tablas volcadas
